@@ -1,0 +1,14 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|05 Nov 2016 00:24:41 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_author:SR|DESKTOP-80FNPSV\\moi
+vti_modifiedby:SR|DESKTOP-80FNPSV\\moi
+vti_timecreated:TR|05 Nov 2016 00:24:41 -0000
+vti_cacheddtm:TX|05 Nov 2016 00:24:41 -0000
+vti_filesize:IR|1684
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_charset:SR|utf-8
+vti_backlinkinfo:VX|
